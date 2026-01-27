@@ -1,4 +1,4 @@
-<img align="right" height="200" src="C:\Users\PRIVAT\Programieren\github"  />
+<img align="right" height="200" src="\Users\PRIVAT\Programieren\github"  />
 
 ###
 
