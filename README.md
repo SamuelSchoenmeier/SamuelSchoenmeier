@@ -30,7 +30,4 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SamuelSchoenmeier/SamuelSchoenmeier/output/snake.svg" alt="Snake animation" />
-
 ###
